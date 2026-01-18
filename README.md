@@ -15,7 +15,7 @@ The idea started as a joke - "what if VS Code hated you?" - and we just kept goi
 ## Poses you'll have to do
 
 - **67 Hands** - Wave both hands up and down like you're at a concert
-- **Fanum Tax** - Stick out your tongue and shake your head
+- **Flight Emote** - Stick out your tongue and shake your head
 - **Monkey Think** - Put your finger on your lip like you're pondering life
 - **Khaby Lame** - The classic palms-up "it's that simple" shrug
 - **Mewing** - Point at your jawline
