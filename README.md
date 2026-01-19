@@ -6,6 +6,13 @@ A VS Code extension that locks your files and forces you to do memes poses on we
 
 You open a file. It gets encrypted. Now you can't code until you dab, do the Khaby Lame hands, or point at your jawline like you're mewing. You have 60 seconds. Fail and the file gets deleted.
 
+### Video
+
+[Watch the demo](https://youtu.be/H48xkjm5dao)
+
+### Emote detection in action
+![Emote detection in action](detection.jpg)
+
 ## Why
 
 We were bored and thought it'd be funny to make devs do meme actions just to access their own code.
